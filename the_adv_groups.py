@@ -44,7 +44,26 @@ async def send_message():
         print_colored("All messages sent!", "green")
     else :
         pass
-
+print("""
+sdSS_SSSSSSbs    sSSSSs   .S_SSSs     .S       S.   sdSS_SSSSSSbs    sSSs_sSSs      sSSs    sSSs   .S_sSSs     .S_sSSs    
+YSSS~S%SSSSSP   d%%%%SP  .SS~SSSSS   .SS       SS.  YSSS~S%SSSSSP   d%%SP~YS%%b    d%%SP   d%%SP  .SS~YS%%b   .SS~YS%%b   
+     S%S       d%S'      S%S   SSSS  S%S       S%S       S%S       d%S'     `S%b  d%S'    d%S'    S%S   `S%b  S%S   `S%b  
+     S%S       S%S       S%S    S%S  S%S       S%S       S%S       S%S       S%S  S%|     S%S     S%S    S%S  S%S    S%S  
+     S&S       S&S       S%S SSSS%S  S&S       S&S       S&S       S&S       S&S  S&S     S&S     S%S    S&S  S%S    S&S  
+     S&S       S&S       S&S  SSS%S  S&S       S&S       S&S       S&S       S&S  Y&Ss    S&S_Ss  S&S    S&S  S&S    S&S  
+     S&S       S&S       S&S    S&S  S&S       S&S       S&S       S&S       S&S  `S&&S   S&S~SP  S&S    S&S  S&S    S&S  
+     S&S       S&S sSSs  S&S    S&S  S&S       S&S       S&S       S&S       S&S    `S*S  S&S     S&S    S&S  S&S    S&S  
+     S*S       S*b `S%%  S*S    S&S  S*b       d*S       S*S       S*b       d*S     l*S  S*b     S*S    S*S  S*S    d*S  
+     S*S       S*S   S%  S*S    S*S  S*S.     .S*S       S*S       S*S.     .S*S    .S*P  S*S.    S*S    S*S  S*S   .S*S  
+     S*S        SS_sSSS  S*S    S*S   SSSbs_sdSSS        S*S        SSSbs_sdSSS   sSS*S    SSSbs  S*S    S*S  S*S_sdSSS   
+     S*S         Y~YSSY  SSS    S*S    YSSP~YSSY         S*S         YSSP~YSSY    YSS'      YSSP  S*S    SSS  SSS~YSSY    
+     SP                         SP                       SP                                       SP                      
+     Y                          Y                        Y                                        Y                       
+                                                                                                                          
+created by : bijita syanz
+      telegram : @soufianshope
+      github   : @bijita-syanz
+""")
 
 while True:
    loop = asyncio.get_event_loop()
